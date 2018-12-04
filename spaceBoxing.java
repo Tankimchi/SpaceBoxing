@@ -33,7 +33,7 @@ public class SpaceBoxing {
 			System.out.println("\n Your weight would be " + (weight * Uranus));	
 		}
 		else if(planet == 6)	{
-			System.out.println("\n Your weight would be " + weight * Neptune);
+			System.out.println("\n Your weight would be " + (weight * Neptune));
 		}
 		
 	}
